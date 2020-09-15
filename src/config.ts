@@ -1,0 +1,1 @@
+export const DEFAULT_CODEPOINT = 0xE001;
